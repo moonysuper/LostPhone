@@ -1,8 +1,10 @@
 <nav class="navbar navbar-expand-lg ">
     <div class="container">
         <a class="navbar-brand" href="{{url('/')}}"><img src="https://cdn.dribbble.com/users/230290/screenshots/15128882/media/4175d17c66f179fea9b969bbf946820f.jpg?compress=1&resize=400x300&vertical=top" alt="" height="40" width="200"></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler text-white" type="button"  data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="material-symbols-outlined">
+                density_small
+                </span>
         </button>
           
         

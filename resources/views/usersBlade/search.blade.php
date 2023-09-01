@@ -1,7 +1,7 @@
 @include('welcome')
 @section('body')
 {{-- <div class="container"> --}}
-    <div class="row" style="width: 90%">
+    <div class="row" style="width: 900px">
       <div class="col-5">
        <div class="container"style="">
 
